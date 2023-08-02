@@ -3,7 +3,17 @@ entries:
   pkg_test_1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-02T11:34:55.480156888+04:00"
+    created: "2023-08-02T11:39:50.74857947+04:00"
+    description: A Helm chart for Kubernetes using helm repo
+    digest: 070b2a5405205294ca51c5c437228e63df7f2e093d13f3f6bcb50c7eee85c569
+    name: pkg_test_1
+    type: application
+    urls:
+    - pkg_test_1-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-02T11:39:50.748123487+04:00"
     description: A Helm chart for Kubernetes using helm repo
     digest: 069b673daa62198c965c3f15ba14fa7a325110937dcee2949f7a8c8562c6eebd
     name: pkg_test_1
@@ -11,4 +21,4 @@ entries:
     urls:
     - pkg_test_1-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-02T11:34:55.479305906+04:00"
+generated: "2023-08-02T11:39:50.747553191+04:00"
